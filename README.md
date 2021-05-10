@@ -9,11 +9,11 @@ All Control Library Most Useful Resource in iOS development person
 ## Ramani  Hitesh 
 ### iOS Developer Gmail:- Ramanihiteshc@gmail.com
 
- <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#content">Content</a>
-<a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#courses">Courses</a>
-<a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#getting-started">Getting Started</a>
- <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#accessibility">Accessibility</a>
-<a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#alexa">Alexa</a>
+ <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#content">Content</a>/
+<a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#courses">Courses</a>/
+<a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#getting-started">Getting Started</a>/
+ <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#accessibility">Accessibility</a>/
+<a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#alexa">Alexa</a>/
  <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#analytics">Analytics</a>
   <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#app-routing">App Routing</a>
 <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#apple-tv">Apple TV</a>
