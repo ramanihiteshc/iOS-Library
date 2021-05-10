@@ -10,169 +10,176 @@ All Control Library Most Useful Resource in iOS development person
 ### iOS Developer Gmail:- Ramanihiteshc@gmail.com
 
 
- <a  href="#content">Content</a>
-          <a  href="#courses">Courses</a> </br>
-          <a  href="#getting-started">Getting Started</a>
-          <a  href="#accessibility">Accessibility</a>
-          <a  href="#alexa">Alexa</a>
-          <a  href="#analytics">Analytics</a>
-          <a  href="#app-routing">App Routing</a>
-          <a  href="#apple-tv">Apple TV</a>
-          <a  href="#architecture-patterns">Architecture Patterns</a>
-          <a  href="#arkit">ARKit</a>
-          <a  href="#authentication">Authentication</a>
-          <a  href="#blockchain">Blockchain</a>
-          <a  href="#bridging">Bridging</a>
-          <a  href="#cache">Cache</a>
-          <a  href="#charts">Charts</a>
-          <a  href="#code-quality">Code Quality</a>
-          <a  href="#linter">Linter</a>
-          <a  href="#color">Color</a>
-          <a  href="#command-line">Command Line</a>
-          <a  href="#concurrency">Concurrency</a>
-          <a  href="#core-data">Core Data</a>
-          <a  href="#database">Database</a>
-          <a  href="#data-structures--algorithms">Data Structures / Algorithms</a>
-          <a  href="#date--time">Date &amp; Time</a>
-          <a  href="#debugging">Debugging</a>
-          <a  href="#eventbus">EventBus</a>
-          <a  href="#files">Files</a>
-          <a  href="#functional-programming">Functional Programming</a>
-          <a  href="#games">Games</a>
-          <a  href="#gcd">GCD</a>
-          <a  href="#gesture">Gesture</a>
-          <a  href="#graphics">Graphics</a>
-          <a  href="#hardware">Hardware</a>
-          <a  href="#bluetooth">Bluetooth</a>
-          <a  href="#camera">Camera</a>
-          <a  href="#force-touch">Force Touch</a>
-          <a  href="#ibeacon">iBeacon</a>
-          <a  href="#location">Location</a>
-          <a  href="#other-hardware">Other Hardware</a>
-          <a  href="#layout">Layout</a>
-          <a  href="#localization">Localization</a>
-          <a  href="#logging">Logging</a>
-          <a  href="#machine-learning">Machine Learning</a>
-          <a  href="#maps">Maps</a>
-          <a  href="#math">Math</a>
-          <a  href="#media">Media</a>
-          <a  href="#audio">Audio</a>
-          <a  href="#gif">GIF</a>
-          <a  href="#image">Image</a>
-          <a  href="#media-processing">Media Processing</a>
-          <a  href="#pdf">PDF</a>
-          <a  href="#streaming">Streaming</a>
-          <a  href="#video">Video</a>
-          <a  href="#messaging">Messaging</a>
-          <a  href="#networking">Networking</a>
-          <a  href="#email">Email</a>
-          <a  href="#representations">Representations</a>
-          <a  href="#notifications">Notifications</a>
-          <a  href="#push-notifications">Push Notifications</a>
-          <a  href="#push-notification-providers">Push Notification Providers</a>
-          <a  href="#local-notifications">Local Notifications</a>
-          <a  href="#objective-c-runtime">Objective-C Runtime</a>
-          <a  href="#optimization">Optimization</a>
-          <a  href="#parsing">Parsing</a>
-          <a  href="#csv">CSV</a>
-          <a  href="#json">JSON</a>
-          <a  href="#xml--html">XML &amp; HTML</a>
-          <a  href="#other-parsing">Other Parsing</a>
-          <a  href="#passbook">Passbook</a>
-          <a  href="#payments">Payments</a>
-          <a  href="#permissions">Permissions</a>
-          <a  href="#reactive-programming">Reactive Programming</a>
-          <a  href="#react-like">React-Like</a>
-          <a  href="#reflection">Reflection</a>
-          <a  href="#regex">Regex</a>
-          <a  href="#sdk">SDK</a>
-          <a  href="#official">Official</a>
-          <a  href="#unofficial">Unofficial</a>
-          <a  href="#security">Security</a>
-          <a  href="#encryption">Encryption</a>
-          <a  href="#keychain">Keychain</a>
-          <a  href="#server">Server</a>
-          <a  href="#text">Text</a>
-          <a  href="#font">Font</a>
-          <a  href="#testing">Testing</a>
-          <a  href="#tdd--bdd">TDD / BDD</a>
-          <a  href="#ab-testing">A/B Testing</a>
-          <a  href="#ui-testing">UI Testing</a>
-          <a  href="#other-testing">Other Testing</a>
-          <a  href="#ui">UI</a>
-          <a  href="#activity-indicator">Activity Indicator</a>
-          <a  href="#animation">Animation</a>
-          <a  href="#transition">Transition</a>
-          <a  href="#alert--action-sheet">Alert &amp; Action Sheet</a>
-          <a  href="#badge">Badge</a>
-          <a  href="#button">Button</a>
-          <a  href="#calendar">Calendar</a>
-          <a  href="#cards">Cards</a>
-          <a  href="#form--settings">Form &amp; Settings</a>
-          <a  href="#keyboard">Keyboard</a>
-          <a  href="#label">Label</a>
-          <a  href="#login">Login</a>
-          <a  href="#menu">Menu</a>
-          <a  href="#navigation-bar">Navigation Bar</a>
-          <a  href="#pickerview">PickerView</a>
-          <a  href="#popup">Popup</a>
-          <a  href="#progressview">ProgressView</a>
-          <a  href="#pull-to-refresh">Pull to Refresh</a>
-          <a  href="#rating-stars">Rating Stars</a>
-          <a  href="#scrollview">ScrollView</a>
-          <a  href="#segmented-control">Segmented Control</a>
-          <a  href="#slider">Slider</a>
-          <a  href="#splash-view">Splash View</a>
-          <a  href="#status-bar">Status Bar</a>
-          <a  href="#stepper">Stepper</a>
-          <a  href="#switch">Switch</a>
-          <a  href="#tab-bar">Tab Bar</a>
-          <a  href="#table-view--collection-view">Table View / Collection View</a>
-          <a  href="#table-view">Table View</a>
-          <a  href="#collection-view">Collection View</a>
-          <a  href="#expandable-cell">Expandable Cell</a>
-          <a  href="#header">Header</a>
-          <a  href="#placeholder">Placeholder</a>
-          <a  href="#collection-view-layout">Collection View Layout</a>
-          <a  href="#tag">Tag</a>
-          <a  href="#textfield--textview">TextField &amp; TextView</a>
-          <a  href="#uipagecontrol">UIPageControl</a>
-          <a  href="#web-view">Web View</a>
-          <a  href="#utility">Utility</a>
-          <a  href="#user-consent">User Consent</a>
-          <a  href="#vr">VR</a>
-          <a  href="#walkthrough--intro--tutorial">Walkthrough / Intro / Tutorial</a>
-          <a  href="#websocket">WebSocket</a>
-          <a  href="#project-setup">Project setup</a>
-          <a  href="#dependency--package-manager">Dependency / Package Manager</a>
-          <a  href="#tools">Tools</a>
-          <a  href="#rapid-development">Rapid Development</a>
-          <a  href="#code-injection">Code Injection</a>
-          <a  href="#dependency-injection">Dependency Injection</a>
-          <a  href="#deployment--distribution">Deployment / Distribution</a>
-          <a  href="#app-store">App Store</a>
-          <a  href="#xcode">Xcode</a>
-          <a  href="#extensions-xcode-8">Extensions (Xcode 8+)</a>
-          <a  href="#themes">Themes</a>
-          <a  href="#other-xcode">Other Xcode</a>
-          <a  href="#reference">Reference</a>
-          <a  href="#style-guides">Style Guides</a>
-          <a  href="#good-websites">Good Websites</a>
-          <a  href="#news-blogs-and-more">News, Blogs and more</a>
-          <a  href="#uikit-references">UIKit references</a>
-          <a  href="#forums-and-discuss-lists">Forums and discuss lists</a>
-          <a  href="#tutorials-and-keynotes">Tutorials and Keynotes</a>
-          <a  href="#ios-ui-template">iOS UI Template</a>
-          <a  href="#prototyping">Prototyping</a>
-          <a  href="#newsletters">Newsletters</a>
-          <a  href="#medium">Medium</a>
-          <a  href="#social-media">Social Media</a>
-          <a  href="#twitter">Twitter</a>
-          <a  href="#podcasts">Podcasts</a>
-          <a  href="#books">Books</a>
-          <a  href="#other-awesome-lists">Other Awesome Lists</a>
-          <a  href="#contributing-and-license">Contributing and License</a>
+  <details-menu class="SelectMenu" role="menu">
+    <div class="SelectMenu-modal rounded-3 mt-1" style="max-height:340px;">
+      <div class="SelectMenu-list SelectMenu-list--borderless p-2" style="overscroll-behavior: contain;">
 
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#content">Content</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#courses">Courses</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#getting-started">Getting Started</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#accessibility">Accessibility</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#alexa">Alexa</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#analytics">Analytics</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#app-routing">App Routing</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#apple-tv">Apple TV</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#architecture-patterns">Architecture Patterns</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#arkit">ARKit</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#authentication">Authentication</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#blockchain">Blockchain</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#bridging">Bridging</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#cache">Cache</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#charts">Charts</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#code-quality">Code Quality</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#linter">Linter</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#color">Color</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#command-line">Command Line</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#concurrency">Concurrency</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#core-data">Core Data</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#database">Database</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#data-structures--algorithms">Data Structures / Algorithms</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#date--time">Date &amp; Time</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#debugging">Debugging</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#eventbus">EventBus</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#files">Files</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#functional-programming">Functional Programming</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#games">Games</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#gcd">GCD</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#gesture">Gesture</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#graphics">Graphics</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#hardware">Hardware</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#bluetooth">Bluetooth</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#camera">Camera</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#force-touch">Force Touch</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#ibeacon">iBeacon</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#location">Location</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#other-hardware">Other Hardware</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#layout">Layout</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#localization">Localization</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#logging">Logging</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#machine-learning">Machine Learning</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#maps">Maps</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#math">Math</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#media">Media</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#audio">Audio</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#gif">GIF</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#image">Image</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#media-processing">Media Processing</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#pdf">PDF</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#streaming">Streaming</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#video">Video</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#messaging">Messaging</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#networking">Networking</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#email">Email</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#representations">Representations</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#notifications">Notifications</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#push-notifications">Push Notifications</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#push-notification-providers">Push Notification Providers</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#local-notifications">Local Notifications</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#objective-c-runtime">Objective-C Runtime</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#optimization">Optimization</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#parsing">Parsing</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#csv">CSV</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#json">JSON</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#xml--html">XML &amp; HTML</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#other-parsing">Other Parsing</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#passbook">Passbook</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#payments">Payments</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#permissions">Permissions</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#reactive-programming">Reactive Programming</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#react-like">React-Like</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#reflection">Reflection</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#regex">Regex</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#sdk">SDK</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#official">Official</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#unofficial">Unofficial</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#security">Security</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#encryption">Encryption</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#keychain">Keychain</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#server">Server</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#text">Text</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#font">Font</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#testing">Testing</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#tdd--bdd">TDD / BDD</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#ab-testing">A/B Testing</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#ui-testing">UI Testing</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#other-testing">Other Testing</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#ui">UI</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#activity-indicator">Activity Indicator</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#animation">Animation</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#transition">Transition</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#alert--action-sheet">Alert &amp; Action Sheet</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#badge">Badge</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#button">Button</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#calendar">Calendar</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#cards">Cards</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#form--settings">Form &amp; Settings</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#keyboard">Keyboard</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#label">Label</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#login">Login</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#menu">Menu</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#navigation-bar">Navigation Bar</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#pickerview">PickerView</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#popup">Popup</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#progressview">ProgressView</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#pull-to-refresh">Pull to Refresh</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#rating-stars">Rating Stars</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#scrollview">ScrollView</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#segmented-control">Segmented Control</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#slider">Slider</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#splash-view">Splash View</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#status-bar">Status Bar</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#stepper">Stepper</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#switch">Switch</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#tab-bar">Tab Bar</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#table-view--collection-view">Table View / Collection View</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 48px;"  href="#table-view">Table View</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 48px;"  href="#collection-view">Collection View</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 48px;"  href="#expandable-cell">Expandable Cell</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 48px;"  href="#header">Header</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 48px;"  href="#placeholder">Placeholder</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 48px;"  href="#collection-view-layout">Collection View Layout</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#tag">Tag</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#textfield--textview">TextField &amp; TextView</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#uipagecontrol">UIPageControl</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#web-view">Web View</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#utility">Utility</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#user-consent">User Consent</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#vr">VR</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#walkthrough--intro--tutorial">Walkthrough / Intro / Tutorial</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#websocket">WebSocket</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#project-setup">Project setup</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#dependency--package-manager">Dependency / Package Manager</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#tools">Tools</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#rapid-development">Rapid Development</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#code-injection">Code Injection</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#dependency-injection">Dependency Injection</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#deployment--distribution">Deployment / Distribution</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#app-store">App Store</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#xcode">Xcode</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#extensions-xcode-8">Extensions (Xcode 8+)</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#themes">Themes</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#other-xcode">Other Xcode</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#reference">Reference</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#style-guides">Style Guides</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#good-websites">Good Websites</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#news-blogs-and-more">News, Blogs and more</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#uikit-references">UIKit references</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#forums-and-discuss-lists">Forums and discuss lists</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#tutorials-and-keynotes">Tutorials and Keynotes</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#ios-ui-template">iOS UI Template</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#prototyping">Prototyping</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#newsletters">Newsletters</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#medium">Medium</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#social-media">Social Media</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#twitter">Twitter</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#podcasts">Podcasts</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#books">Books</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#other-awesome-lists">Other Awesome Lists</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#contributing-and-license">Contributing and License</a>
+      </div>
+    </div>
+  </details-menu>
+</details>
 <h2><a id="user-content-courses" class="anchor" aria-hidden="true" href="https://github.com/vsouza/awesome-ios/blob/master/README.md#courses"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Courses</h2>
 <h3><a id="user-content-getting-started" class="anchor" aria-hidden="true" href="https://github.com/vsouza/awesome-ios/blob/master/README.md#getting-started"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Getting Started</h3>
 <p><em>Courses, tutorials and guides</em></p>
