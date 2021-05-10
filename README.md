@@ -10,170 +10,170 @@ All Control Library Most Useful Resource in iOS development person
 ### iOS Developer Gmail:- Ramanihiteshc@gmail.com
 
 <details-menu class="SelectMenu" role="menu">
-    <div class="SelectMenu-modal rounded-3 mt-1" style="max-height:340px;">
-          <div class="SelectMenu-list SelectMenu-list--borderless p-2" style="overscroll-behavior: contain;">
-<a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#content">Content</a>
-<a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#courses">Courses</a>
-<a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#getting-started">Getting Started</a>
-<a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#accessibility">Accessibility</a>
-<a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#alexa">Alexa</a>
-<a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#analytics">Analytics</a>
-<a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#app-routing">App Routing</a>
-<a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#apple-tv">Apple TV</a>
-<a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#architecture-patterns">Architecture Patterns</a>
-<a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#arkit">ARKit</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#authentication">Authentication</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#blockchain">Blockchain</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#bridging">Bridging</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#cache">Cache</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#charts">Charts</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#code-quality">Code Quality</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#linter">Linter</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#color">Color</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#command-line">Command Line</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#concurrency">Concurrency</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#core-data">Core Data</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#database">Database</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#data-structures--algorithms">Data Structures / Algorithms</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#date--time">Date &amp; Time</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#debugging">Debugging</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#eventbus">EventBus</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#files">Files</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#functional-programming">Functional Programming</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#games">Games</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#gcd">GCD</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#gesture">Gesture</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#graphics">Graphics</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#hardware">Hardware</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#bluetooth">Bluetooth</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#camera">Camera</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#force-touch">Force Touch</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#ibeacon">iBeacon</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#location">Location</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#other-hardware">Other Hardware</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#layout">Layout</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#localization">Localization</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#logging">Logging</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#machine-learning">Machine Learning</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#maps">Maps</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#math">Math</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#media">Media</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#audio">Audio</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#gif">GIF</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#image">Image</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#media-processing">Media Processing</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#pdf">PDF</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#streaming">Streaming</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#video">Video</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#messaging">Messaging</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#networking">Networking</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#email">Email</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#representations">Representations</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#notifications">Notifications</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#push-notifications">Push Notifications</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#push-notification-providers">Push Notification Providers</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#local-notifications">Local Notifications</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#objective-c-runtime">Objective-C Runtime</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#optimization">Optimization</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#parsing">Parsing</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#csv">CSV</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#json">JSON</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#xml--html">XML &amp; HTML</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#other-parsing">Other Parsing</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#passbook">Passbook</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#payments">Payments</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#permissions">Permissions</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#reactive-programming">Reactive Programming</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#react-like">React-Like</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#reflection">Reflection</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#regex">Regex</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#sdk">SDK</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#official">Official</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#unofficial">Unofficial</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#security">Security</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#encryption">Encryption</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#keychain">Keychain</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#server">Server</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#text">Text</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#font">Font</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#testing">Testing</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#tdd--bdd">TDD / BDD</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#ab-testing">A/B Testing</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#ui-testing">UI Testing</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#other-testing">Other Testing</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#ui">UI</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#activity-indicator">Activity Indicator</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#animation">Animation</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#transition">Transition</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#alert--action-sheet">Alert &amp; Action Sheet</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#badge">Badge</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#button">Button</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#calendar">Calendar</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#cards">Cards</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#form--settings">Form &amp; Settings</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#keyboard">Keyboard</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#label">Label</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#login">Login</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#menu">Menu</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#navigation-bar">Navigation Bar</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#pickerview">PickerView</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#popup">Popup</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#progressview">ProgressView</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#pull-to-refresh">Pull to Refresh</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#rating-stars">Rating Stars</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#scrollview">ScrollView</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#segmented-control">Segmented Control</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#slider">Slider</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#splash-view">Splash View</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#status-bar">Status Bar</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#stepper">Stepper</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#switch">Switch</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#tab-bar">Tab Bar</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#table-view--collection-view">Table View / Collection View</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 48px;"  href="#table-view">Table View</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 48px;"  href="#collection-view">Collection View</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 48px;"  href="#expandable-cell">Expandable Cell</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 48px;"  href="#header">Header</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 48px;"  href="#placeholder">Placeholder</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 48px;"  href="#collection-view-layout">Collection View Layout</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#tag">Tag</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#textfield--textview">TextField &amp; TextView</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#uipagecontrol">UIPageControl</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#web-view">Web View</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#utility">Utility</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#user-consent">User Consent</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#vr">VR</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#walkthrough--intro--tutorial">Walkthrough / Intro / Tutorial</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#websocket">WebSocket</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#project-setup">Project setup</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#dependency--package-manager">Dependency / Package Manager</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#tools">Tools</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#rapid-development">Rapid Development</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#code-injection">Code Injection</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#dependency-injection">Dependency Injection</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#deployment--distribution">Deployment / Distribution</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#app-store">App Store</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#xcode">Xcode</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#extensions-xcode-8">Extensions (Xcode 8+)</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#themes">Themes</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#other-xcode">Other Xcode</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#reference">Reference</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#style-guides">Style Guides</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#good-websites">Good Websites</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#news-blogs-and-more">News, Blogs and more</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#uikit-references">UIKit references</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#forums-and-discuss-lists">Forums and discuss lists</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#tutorials-and-keynotes">Tutorials and Keynotes</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#ios-ui-template">iOS UI Template</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#prototyping">Prototyping</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#newsletters">Newsletters</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#medium">Medium</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#social-media">Social Media</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#twitter">Twitter</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#podcasts">Podcasts</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#books">Books</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#other-awesome-lists">Other Awesome Lists</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#contributing-and-license">Contributing and License</a>
+    <div class="SelectMenu-modal rounded-3 mt-1" style="max-height:340px;"><br>
+          <div class="SelectMenu-list SelectMenu-list--borderless p-2" style="overscroll-behavior: contain;"><br>
+<a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#content">Content</a> <br>
+<a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#courses">Courses</a><br><br>
+<a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#getting-started">Getting Started</a><br>
+<a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#accessibility">Accessibility</a><br>
+<a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#alexa">Alexa</a><br>
+<a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#analytics">Analytics</a><br>
+<a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#app-routing">App Routing</a><br>
+<a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#apple-tv">Apple TV</a><br>
+<a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#architecture-patterns">Architecture Patterns</a><br>
+<a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#arkit">ARKit</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#authentication">Authentication</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#blockchain">Blockchain</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#bridging">Bridging</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#cache">Cache</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#charts">Charts</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#code-quality">Code Quality</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#linter">Linter</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#color">Color</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#command-line">Command Line</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#concurrency">Concurrency</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#core-data">Core Data</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#database">Database</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#data-structures--algorithms">Data Structures / Algorithms</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#date--time">Date &amp; Time</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#debugging">Debugging</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#eventbus">EventBus</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#files">Files</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#functional-programming">Functional Programming</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#games">Games</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#gcd">GCD</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#gesture">Gesture</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#graphics">Graphics</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#hardware">Hardware</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#bluetooth">Bluetooth</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#camera">Camera</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#force-touch">Force Touch</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#ibeacon">iBeacon</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#location">Location</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#other-hardware">Other Hardware</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#layout">Layout</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#localization">Localization</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#logging">Logging</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#machine-learning">Machine Learning</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#maps">Maps</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#math">Math</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#media">Media</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#audio">Audio</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#gif">GIF</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#image">Image</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#media-processing">Media Processing</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#pdf">PDF</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#streaming">Streaming</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#video">Video</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#messaging">Messaging</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#networking">Networking</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#email">Email</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#representations">Representations</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#notifications">Notifications</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#push-notifications">Push Notifications</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#push-notification-providers">Push Notification Providers</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#local-notifications">Local Notifications</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#objective-c-runtime">Objective-C Runtime</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#optimization">Optimization</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#parsing">Parsing</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#csv">CSV</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#json">JSON</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#xml--html">XML &amp; HTML</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#other-parsing">Other Parsing</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#passbook">Passbook</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#payments">Payments</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#permissions">Permissions</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#reactive-programming">Reactive Programming</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#react-like">React-Like</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#reflection">Reflection</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#regex">Regex</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#sdk">SDK</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#official">Official</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#unofficial">Unofficial</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#security">Security</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#encryption">Encryption</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#keychain">Keychain</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#server">Server</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#text">Text</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#font">Font</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#testing">Testing</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#tdd--bdd">TDD / BDD</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#ab-testing">A/B Testing</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#ui-testing">UI Testing</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#other-testing">Other Testing</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#ui">UI</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#activity-indicator">Activity Indicator</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#animation">Animation</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#transition">Transition</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#alert--action-sheet">Alert &amp; Action Sheet</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#badge">Badge</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#button">Button</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#calendar">Calendar</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#cards">Cards</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#form--settings">Form &amp; Settings</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#keyboard">Keyboard</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#label">Label</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#login">Login</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#menu">Menu</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#navigation-bar">Navigation Bar</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#pickerview">PickerView</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#popup">Popup</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#progressview">ProgressView</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#pull-to-refresh">Pull to Refresh</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#rating-stars">Rating Stars</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#scrollview">ScrollView</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#segmented-control">Segmented Control</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#slider">Slider</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#splash-view">Splash View</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#status-bar">Status Bar</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#stepper">Stepper</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#switch">Switch</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#tab-bar">Tab Bar</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#table-view--collection-view">Table View / Collection View</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 48px;"  href="#table-view">Table View</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 48px;"  href="#collection-view">Collection View</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 48px;"  href="#expandable-cell">Expandable Cell</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 48px;"  href="#header">Header</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 48px;"  href="#placeholder">Placeholder</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 48px;"  href="#collection-view-layout">Collection View Layout</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#tag">Tag</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#textfield--textview">TextField &amp; TextView</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#uipagecontrol">UIPageControl</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#web-view">Web View</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#utility">Utility</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#user-consent">User Consent</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#vr">VR</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#walkthrough--intro--tutorial">Walkthrough / Intro / Tutorial</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#websocket">WebSocket</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#project-setup">Project setup</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#dependency--package-manager">Dependency / Package Manager</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#tools">Tools</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#rapid-development">Rapid Development</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#code-injection">Code Injection</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#dependency-injection">Dependency Injection</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#deployment--distribution">Deployment / Distribution</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#app-store">App Store</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#xcode">Xcode</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#extensions-xcode-8">Extensions (Xcode 8+)</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#themes">Themes</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#other-xcode">Other Xcode</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#reference">Reference</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#style-guides">Style Guides</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#good-websites">Good Websites</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#news-blogs-and-more">News, Blogs and more</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#uikit-references">UIKit references</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#forums-and-discuss-lists">Forums and discuss lists</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#tutorials-and-keynotes">Tutorials and Keynotes</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#ios-ui-template">iOS UI Template</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#prototyping">Prototyping</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#newsletters">Newsletters</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#medium">Medium</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#social-media">Social Media</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#twitter">Twitter</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#podcasts">Podcasts</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#books">Books</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#other-awesome-lists">Other Awesome Lists</a><br>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#contributing-and-license">Contributing and License</a><br>
           </div>
          </div> </details-menu>
          </details>
