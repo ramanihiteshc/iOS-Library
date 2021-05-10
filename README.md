@@ -12,17 +12,16 @@ All Control Library Most Useful Resource in iOS development person
 <details-menu class="SelectMenu" role="menu">
     <div class="SelectMenu-modal rounded-3 mt-1" style="max-height:340px;">
           <div class="SelectMenu-list SelectMenu-list--borderless p-2" style="overscroll-behavior: contain;">
-
-  <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#content">Content</a>
- <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#courses">Courses</a>
- <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#getting-started">Getting Started</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#accessibility">Accessibility</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#alexa">Alexa</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#analytics">Analytics</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#app-routing">App Routing</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#apple-tv">Apple TV</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#architecture-patterns">Architecture Patterns</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#arkit">ARKit</a>
+<a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#content">Content</a>
+<a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#courses">Courses</a>
+<a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;"  href="#getting-started">Getting Started</a>
+<a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#accessibility">Accessibility</a>
+<a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#alexa">Alexa</a>
+<a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#analytics">Analytics</a>
+<a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#app-routing">App Routing</a>
+<a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#apple-tv">Apple TV</a>
+<a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#architecture-patterns">Architecture Patterns</a>
+<a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#arkit">ARKit</a>
           <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#authentication">Authentication</a>
           <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#blockchain">Blockchain</a>
           <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;"  href="#bridging">Bridging</a>
